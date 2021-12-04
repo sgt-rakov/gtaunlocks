@@ -2,38 +2,76 @@ GTAO Ultimate progress/unlocks list.
 
 Any kind of progress/content you can unlock/obtain in game. If something is listed in some kind of menu, that menu is only mentioned once. If something is unlocked together with item already mentioned (like if something gives an outfit and an award, since awards are already mentioned), it's not mentioned again. Suggestions are welcome. 
 
--Main menu-awards (and rewards menu within), platform 100% (steam/rgsc/xbox/ps)
+# Basic
+- Awards in main menu (and rewards menu within)
+- Platform achievements (steam/rgsc/xbox/ps)
+- Regularly buyable: vehicles and properties, clothes and masks, weapons
+- Diamond casino store outfits and decorations (a few of them are rotated weekly)
 
--Regularly buyable: vehicles and properties, clothes and masks, weapons
+# Farm X of something
+- Level 200 (or 750 for golden globe)
+- Tuners level 1000
+- Arena War sponsorship tier 1000
+- Arena War skill level 20
+- Cash on CEO office floor and MC club floor
+- Chips on Diamond Penthouse floor
+- Tints on classic weapons for killing X players with them (up to 600)
 
--Diamond casino store outfits and decorations (a few of them are rotated weekly)
+# Complete something
+- Various trade prices on vehicle websites (internet-transport category)
+- 3 stars in bunker gun range
+- DCH outfits (for completing DCH using them)
+- MC contract outfits - "dock worker" and "lost mc", 4 each
 
--Interaction menu - inventory - collectibles
+# Collectibles
+- Interaction menu - inventory - collectibles
+- Double action revolver
+- Navy revolver
+- Stone hatchet
+- Pistol and shotgun in Cayo Perico
 
--Double action and navy revolvers, stone hatchet, cayo pistol and shotgun
+# Timed content
 
--Level 200 (or 750 for golden globe), Tuners level 1000, Arena War level 1000 and skill level 20
+### Yearly Valentine content
+- Cars: Albany Roosevelt, Albany Roosevelt Valor
+- Weapon: Gusenberg Sweeper
+- Outfits
+- One unique hairstyle
 
--Trade prices on vehicle websites (internet-transport category)
+### Yearly Independence Day content
+- Vehicles: Vapid Liberator, Western Sovereign
+- Weapon: Musket, Firework Launcher
+- Star Spangled Banner horns
+- Patriotic tire smoke
+- Stars and Stripes facepaint
+- Clothing
+- Haircut
+- Masks
+- Mobile Operations Center liveries
+- MkII weapon liveries 
 
--DCH outfits (for completing dch using them)
+### Yearly Halloween content
+- Vehicles: Albany Fränken Stange, Albany Lurcher, LCC Sanctus
+- Horns
+- Lowrider bobbleheads
+- Masks
+- Face paints
+- Decorations and masks in Casino Store (?)
 
--Cash on CEO office floor and MC club floor, chips on Diamond Penthouse floor
+### Yearly Christmas content
+- Clothing
+- Masks
 
--3 stars in bunker gun range
+### Various weekly unique unlocks
+- For simply logging in. 
+- For event cargo in business battles
+- And for competing something else
 
--Strippers phone numbers
+Most of it is gone forever, but some reappears sometimes. 
 
--Yearly Valentine content (list tba)
+# Secrets and stuff
 
--Yearly Independence Day content (list tba)
-
--Yearly Halloween content (list tba)
-
--Yearly Christmas content (list tba)
-
--Various weekly unique unlocks (for logging in, event cargo in business battles, and competing something else - most of it is gone forever, but some reappears sometimes)
-
--Kifflom outfit and kifflom t-shirt
-
--Alien tattoo
+- Strippers phone numbers
+- Kifflom outfit
+- Kifflom t-shirt
+- Alien tattoo
