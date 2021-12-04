@@ -12,7 +12,7 @@ Any kind of progress/content you can unlock/obtain in game. If something is list
 
 -Double action and navy revolvers, stone hatchet, cayo pistol and shotgun
 
--Level 200 (or 750 for golden globe), Tuners level 1000, Arena War level 1000 and sponsorship level 25
+-Level 200 (or 750 for golden globe), Tuners level 1000, Arena War level 1000 and skill level 20
 
 -Trade prices on vehicle websites (internet-transport category)
 
